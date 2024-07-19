@@ -2,6 +2,7 @@
 using namespace std ;// because in c++ cin and cout are present in standard namespace . 
 // other wise u have to wirte like this std::cin 
 #define endl '\n' // replase endl with \n as it is faster
+#define FOR(i,a,b) for(int i=(a);i<(b);i++)
 
 
 void solve(){
